@@ -37,7 +37,7 @@
 ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 ![Dart](https://img.shields.io/badge/-Dart-2AB7F6?style=flat-square&logo=Dart)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-black?logo=C%2B%2B&logoColor=blue&style=flat-button)
 
 
 ### List of things I have worked with
