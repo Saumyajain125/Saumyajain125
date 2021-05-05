@@ -11,7 +11,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/growwithsaumya/)
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:er.saumyasogani@gmail.com)
 
-
+<!-- [Metrics](https://metrics.lecoq.io/saumyajain125) -->
 #### I recently started writing blogs. Check out:- [https://saumya-jain23112001.medium.com/](https://saumya-jain23112001.medium.com/)
 
 ### Tech Stacks
@@ -60,3 +60,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=saumyajain125&show_icons=true&line_height=40&count_private=true&theme=midnight-purple">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyajain125&theme=midnight-purple">
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saumyajain125&theme=onedark)](https://github.com/saumyajain125/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
+![Profile views](https://gpvc.arturio.dev/saumyajain125)
