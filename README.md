@@ -12,7 +12,7 @@
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:er.saumyasogani@gmail.com)
 
 <!-- [Metrics](https://metrics.lecoq.io/saumyajain125) -->
-#### I recently started writing blogs. Check out:- [https://saumya-jain23112001.medium.com/](https://saumya-jain23112001.medium.com/)
+#### I recently started writing blogs. Check out:- [https://saumyasogani.medium.com/](https://saumya-jain23112001.medium.com/)
 
 ### Tech Stacks
 
