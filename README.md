@@ -63,6 +63,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saumyajain125&theme=onedark)](https://github.com/saumyajain125/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saumyajain125&theme=dark)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/saumyajain125)
