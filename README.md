@@ -1,6 +1,6 @@
 # Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px">,<br>I am Saumya Jain.
 
-### I am a second year Computer Science student at The Anand International College of Engineering,Jaipur.
+### I am a fourth year Computer Science student at The Anand International College of Engineering,Jaipur.
 
 ### I am currently looking for internship in flutter.
 
