@@ -2,13 +2,6 @@
 
 ### I am currently a Full Stack Web Developer At Wisflux Private Limited.
 
-#### Connect with me on -
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/growwithsaumya)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saumyasogani/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/growwithsaumya/)
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:er.saumyasogani@gmail.com)
-
 ### Tech Stacks
 
 ###### Learning
@@ -16,23 +9,26 @@
 ![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon)
 
 ###### Front-End Stack
-![Flutter](https://img.shields.io/badge/-Flutter-2AB7F6?style=flat-square&logo=Flutter)
 ![React](https://img.shields.io/badge/-React-563D7C?style=flat-square&logo=react)
+![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=nextdotjs)
+![Flutter](https://img.shields.io/badge/-Flutter-2AB7F6?style=flat-square&logo=Flutter)
 
 ###### Back-End Stack
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Nest](https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs)
+![Postgres](https://img.shields.io/badge/Postgres-white?logo=postgresql)
 ![Node](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
 
 
 ###### Languages
 
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
 ![Node](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 ![Dart](https://img.shields.io/badge/-Dart-2AB7F6?style=flat-square&logo=Dart)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?logo=C%2B%2B&logoColor=blue&style=flat-button)
 
 
@@ -46,8 +42,8 @@
 
 ###### Devop skills
 
+![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker)
 ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
-
 ![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saumyajain125&theme=dark)](https://git.io/streak-stats)
