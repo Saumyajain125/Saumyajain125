@@ -1,4 +1,4 @@
-# Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px">,<br>I am Saumya Jain.
+# Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px">,<br>I am Saumya.
 
 ### I am currently a Full Stack Web Developer At Wisflux Private Limited.
 
