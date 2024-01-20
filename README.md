@@ -23,7 +23,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
 
 
-###### Languages
+###### Programming Languages
 
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
 ![Node](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=node.js)
