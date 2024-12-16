@@ -2,6 +2,8 @@
 
 ### I am currently a Full Stack Web Developer At Wisflux Private Limited.
 
+<a href="https://app.daily.dev/saumyajain21"><img src="https://api.daily.dev/devcards/v2/dEuemzV99pJqQxXFY7pkT.png?r=jhz" width="356" alt="Saumya Jain's Dev Card"/></a>
+
 ### Tech Stacks
 
 ###### Learning
